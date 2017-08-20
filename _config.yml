@@ -1,1 +1,4 @@
+markdown: redcarpet
+baseurl: /planet-of-the-apes
+exclude: ['README.md']
 theme: jekyll-theme-minimal
