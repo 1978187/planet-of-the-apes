@@ -1,3 +1,3 @@
 markdown: redcarpet
-baseurl: planet-of-the-apes
+baseurl: /planet-of-the-apes
 exclude: ['README.md']
